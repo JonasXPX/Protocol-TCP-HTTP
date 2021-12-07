@@ -6,7 +6,7 @@ Start cloning the project in your projects directory
 
 ```
 git clone https://github.com/JonasXPX/Protocol-TCP-HTTP.git protocol
-cd project/
+cd protocol/
 ```
 
 Running the project
